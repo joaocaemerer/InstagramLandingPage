@@ -1,2 +1,2 @@
 # InstagramLandingPage
-Instagram Landing Page
+Instagram Landing Page using Flex
